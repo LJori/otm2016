@@ -11,3 +11,5 @@ As Kanye West said:
 > the present is our past.
 
 https://github.com/LJori/otm2016/blob/master/dokumentointi/kaytto-ohje.md
+
+muutos 2016
