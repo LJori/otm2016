@@ -13,3 +13,6 @@ As Kanye West said:
 https://github.com/LJori/otm2016/blob/master/dokumentointi/kaytto-ohje.md
 
 muutos 2016
+
+kuavio:
+https://github.com/LJori/otm2016/blob/master/dokumentointi/maarittelydokumentti.md
